@@ -1,0 +1,12 @@
+.jumbotron {
+  height: 500px;
+  background-image: url("pexels-ishan-139144-421788.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+footer {
+  background-color: rgb(253, 250, 250);
+  height: 5vh;
+  
+}
